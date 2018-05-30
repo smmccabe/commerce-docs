@@ -62,354 +62,354 @@ category: docs
 | **Currencies** | Source: https://www.ccavenue.com/ccavenue_index.jsp#feature-block2 |
 | **Countries** | Source: https://www.ccavenue.com/ccavenue_index.jsp#feature-block2 |
 [/ui-accordion-item]
-[ui-accordion-item title="8. Commerce Pasargad"]
-| ![Commerce Pasargad](logo.png?resize=80,80) | [Commerce Pasargad] |
+[ui-accordion-item title="8. Pasargad"]
+| ![Pasargad](logo.png?resize=80,80) | [Pasargad] |
 |:--- |:--- |
 | **Description** | Pasargad Bank is a famous Iranian bank, this module is a payment method for Drupal Commerce |
 | **Type** | Off Site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="9. Commerce Zarinpal"]
-| ![Commerce Zarinpal](logo.png?resize=80,80) | [Commerce Zarinpal] |
+[ui-accordion-item title="9. Zarinpal"]
+| ![Zarinpal](logo.png?resize=80,80) | [Zarinpal] |
 | --- | --- |
 | **Description** | Zarinpal is Iranian payment gateway. This module provides an integration between Drupal Commerce 2 and Zarinpal Gateway, you can use both IRR (Iranian Rials) and TMN (Iranian Tomans) with this module. |
 | **Type** | Off Site |
 | **Currencies** |   |
 | **Countries** | Iran |
 [/ui-accordion-item]
-[ui-accordion-item title="10. Commerce Amazon Pay"]
-| ![Commerce Amazon Pay](logo.png?resize=80,80) | [Commerce Amazon Pay] |
+[ui-accordion-item title="10. Amazon Pay"]
+| ![Amazon Pay](logo.png?resize=80,80) | [Amazon Pay] |
 | --- | --- |
 | **Description** | This module integratesAmazon Pay and Login with Amazon with Drupal and Drupal Commerce. |
 | **Type** | [N/A] |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="11. Commerce Atom Payment"]
-| ![Commerce Atom Payment](logo.png?resize=80,80) | [Commerce Atom Payment] |
+[ui-accordion-item title="11. Atom Payment"]
+| ![Atom Payment](logo.png?resize=80,80) | [Atom Payment] |
 | --- | --- |
 | **Description** | This payment gateway will support Indian and international credit card, Debit card and internet banking system with safe and secure. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="12. Commerce Braintree Marketplace"]
-| ![Commerce Braintree Marketplace](logo.png?resize=80,80) | [Commerce Braintree Marketplace] |
+[ui-accordion-item title="12. Braintree Marketplace"]
+| ![Braintree Marketplace](logo.png?resize=80,80) | [Braintree Marketplace] |
 | --- | --- |
 | **Description** | Extends commerce_braintree module to leverage the Braintree marketplace transactions API. |
 | **Type** | On site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="13. Commerce China Payments"]
-| ![Commerce China Payments](logo.png?resize=80,80) | [Commerce China Payments] |
+[ui-accordion-item title="13. China Payments"]
+| ![China Payments](logo.png?resize=80,80) | [China Payments] |
 | --- | --- |
 | **Description** | Integrates with Alipay and WeChat Pay |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** | China |
 [/ui-accordion-item]
-[ui-accordion-item title="14. Commerce Coinpayments"]
-| ![Commerce Coinpayments](logo.png?resize=80,80) | [Commerce Coinpayments] |
+[ui-accordion-item title="14. Coinpayments"]
+| ![Coinpayments](logo.png?resize=80,80) | [Coinpayments] |
 | --- | --- |
 | **Description** | Payments Module for Drupal Commerce, which accepts all cryptocurrencies for payments in your drupal site |
 | **Type** | Off site |
 | **Currencies** | Cryptocurrency https://www.coinpayments.net/supported-coins |
 | **Countries** | [N/A] |
 [/ui-accordion-item]
-[ui-accordion-item title="15. Commerce DIBS integration"]
-| ![Commerce DIBS integration](logo.png?resize=80,80) | [Commerce DIBS integration] |
+[ui-accordion-item title="15. DIBS integration"]
+| ![DIBS integration](logo.png?resize=80,80) | [DIBS integration] |
 | --- | --- |
 | **Description** | Provides a DIBS payment gateway integration which allows you to send your clients to make an off-site payment directly on the DIBS payment system. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="16. Commerce Dps Pxpay"]
-| ![Commerce Dps Pxpay](logo.png?resize=80,80) | [Commerce Dps Pxpay] |
+[ui-accordion-item title="16. Dps Pxpay"]
+| ![Dps Pxpay](logo.png?resize=80,80) | [Dps Pxpay] |
 | --- | --- |
 | **Description** | DPS (PaymentExpress) PxPay payment method |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="17. Commerce DPS"]
-| ![Commerce DPS](logo.png?resize=80,80) | [Commerce DPS] |
+[ui-accordion-item title="17. DPS"]
+| ![DPS](logo.png?resize=80,80) | [DPS] |
 | --- | --- |
 | **Description** | DPS (PaymentExpress) payment methods for Drupal Commerce. |
 | **Type** | Off site / On site|
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="18. Commerce Ecpay"]
-| ![Commerce Ecpay](logo.png?resize=80,80) | [Commerce Ecpay] |
+[ui-accordion-item title="18. Ecpay"]
+| ![Ecpay](logo.png?resize=80,80) | [Ecpay] |
 | --- | --- |
 | **Description** | Provides integration between Drupal Commerce and ECPay’s payment, shipping, and e-invoice solutions. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="19. Commerce Elavon"]
-| ![Commerce Elavon](logo.png?resize=80,80) | [Commerce Elavon] |
+[ui-accordion-item title="19. Elavon"]
+| ![Elavon](logo.png?resize=80,80) | [Elavon] |
 | --- | --- |
 | **Description** | Integrate Elavon Virtual Merchant payment service Converge payment gateway with Commerce module. There are two payment options Onsite or Offsite Redirect |
 | **Type** | On site / Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="20. Commerce ePayco"]
-| ![Commerce ePayco](logo.png?resize=80,80) | [Commerce ePayco] |
+[ui-accordion-item title="20. ePayco"]
+| ![ePayco](logo.png?resize=80,80) | [ePayco] |
 | --- | --- |
 | **Description** | ePayco is a Colombian payment gateway that Integrate ePayco Off-site payments, Set-up global gateway settings, Alter payment data dinamically |
 | **Type** | Off site |
 | **Currencies** | Bulgaria |
 | **Countries** | BGN |
 [/ui-accordion-item]
-[ui-accordion-item title="21. Commerce Epn"]
-| ![Commerce Epn](logo.png?resize=80,80) | [Commerce Epn] |
+[ui-accordion-item title="21. Epn"]
+| ![Epn](logo.png?resize=80,80) | [Epn] |
 | --- | --- |
 | **Description** | Payment Gateway for eProcessingNetwork.com |
 | **Type** | On site |
 | **Currencies** | USD |
 | **Countries** | USA |
 [/ui-accordion-item]
-[ui-accordion-item title="22. Commerce Euplatesc"]
-| ![Commerce Euplatesc](logo.png?resize=80,80) | [Commerce Euplatesc] |
+[ui-accordion-item title="22. Euplatesc"]
+| ![Euplatesc](logo.png?resize=80,80) | [Euplatesc] |
 | --- | --- |
 | **Description** | This project integrates EuPlatesc.ro into the Drupal Commerce payment and checkout systems. |
 | **Type** | Off site |
 | **Currencies** | RON |
 | **Countries** | Romania |
 [/ui-accordion-item]
-[ui-accordion-item title="23. Commerce Fondy"]
-| ![Commerce Fondy](logo.png?resize=80,80) | [Commerce Fondy] |
+[ui-accordion-item title="23. Fondy"]
+| ![Fondy](logo.png?resize=80,80) | [Fondy] |
 | --- | --- |
 | **Description** | Fondy Payment Gateway module allows the admin to set up the Fondy payment method on their store. Qiwi, Yandex, Privat24, cash payments, PayPal, SEPA, Swift, online banking with Ukrainian, Russian and European banks |
 | **Type** | Off site |
 | **Currencies** |  Visa, Visa Electron, Mastercard and Maestro bank cards from any country |
 | **Countries** |  Visa, Visa Electron, Mastercard and Maestro bank cards from any country |
 [/ui-accordion-item]
-[ui-accordion-item title="24. Commerce Gocardless Payment"]
-| ![Commerce Gocardless Payment](logo.png?resize=80,80) | [Commerce Gocardless Payment] |
+[ui-accordion-item title="24. Gocardless Payment"]
+| ![Gocardless Payment](logo.png?resize=80,80) | [Gocardless Payment] |
 | --- | --- |
 | **Description** | Integration with the UK Direct Debit payment gateway GoCardless |
 | **Type** | Off site |
 | **Currencies** | GBP |
 | **Countries** | UK |
 [/ui-accordion-item]
-[ui-accordion-item title="25. Commerce GoCardless"]
-| ![Commerce GoCardless](logo.png?resize=80,80) | [Commerce GoCardless] |
+[ui-accordion-item title="25. GoCardless"]
+| ![GoCardless](logo.png?resize=80,80) | [GoCardless] |
 | --- | --- |
 | **Description** | Integration with the UK Direct Debit payment gateway GoCardless |
 | **Type** | On site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="26. Commerce Iats"]
-| ![Commerce Iats](logo.png?resize=80,80) | [Commerce Iats] |
+[ui-accordion-item title="26. IATS"]
+| ![Iats](logo.png?resize=80,80) | [Iats] |
 | --- | --- |
 | **Description** | iATS Payments integration for the Drupal Commerce |
 | **Type** | On site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="27. Commerce Liqpay Gateway"]
-| ![Commerce Liqpay Gateway](logo.png?resize=80,80) | [Commerce Liqpay Gateway] |
+[ui-accordion-item title="27. Liqpay Gateway"]
+| ![Liqpay Gateway](logo.png?resize=80,80) | [Liqpay Gateway] |
 | --- | --- |
 | **Description** | payment services provided by LiqPay. It efficiently integrates payments from various sources such as: credit cards, cash via self-service terminals (offline payments), email receipts, privat24 banking or liqpay accounts. |
 | **Type** | Off site |
 | **Currencies** | UAH |
 | **Countries** | Ukraine |
 [/ui-accordion-item]
-[ui-accordion-item title="28. Commerce Moyasar"]
-| ![Commerce Moyasar](logo.png?resize=80,80) | [Commerce Moyasar] |
+[ui-accordion-item title="28. Moyasar"]
+| ![Moyasar](logo.png?resize=80,80) | [Moyasar] |
 | --- | --- |
 | **Description** | Moyasar integration for the Drupal Commerce payment system. |
 | **Type** | On site / Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="29. Commerce MultiSafepay"]
-| ![Commerce MultiSafepay](logo.png?resize=80,80) | [Commerce MultiSafepay] |
+[ui-accordion-item title="29. MultiSafepay"]
+| ![MultiSafepay](logo.png?resize=80,80) | [MultiSafepay] |
 | --- | --- |
 | **Description** | Multisafepay integration for Drupal Commerce. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="30. Commerce Omise"]
-| ![Commerce Omise](logo.png?resize=80,80) | [Commerce Omise] |
+[ui-accordion-item title="30. Omise"]
+| ![Omise](logo.png?resize=80,80) | [Omise] |
 | --- | --- |
 | **Description** | Omise integration for the Drupal Commerce payment system. |
 | **Type** | On site |
 | **Currencies** | Source: https://www.omise.co/multi-currency |
 | **Countries** | Source: https://www.omise.co/multi-currency |
 [/ui-accordion-item]
-[ui-accordion-item title="31. Commerce Pagos Net"]
-| ![Commerce Pagos Net](logo.png?resize=80,80) | [Commerce Pagos Net] |
+[ui-accordion-item title="31. Pagos Net"]
+| ![Pagos Net](logo.png?resize=80,80) | [Pagos Net] |
 | --- | --- |
 | **Description** | This project integrates the PagosNet payment gateway into the Drupal Commerce payment and checkout systems. |
 | **Type** | On site |
 | **Currencies** | BOB |
 | **Countries** | Bolivia |
 [/ui-accordion-item]
-[ui-accordion-item title="32. Commerce Pagseguro"]
-| ![Commerce Pagseguro](logo.png?resize=80,80) | [Commerce Pagseguro] |
+[ui-accordion-item title="32. Pagseguro"]
+| ![Pagseguro](logo.png?resize=80,80) | [Pagseguro] |
 | --- | --- |
 | **Description** | PagSeguro integration for the Drupal Commerce payment and checkout systems. |
 | **Type** | On site |
 | **Currencies** | BRL |
 | **Countries** | Brazil |
 [/ui-accordion-item]
-[ui-accordion-item title="33. Commerce Pagseguro Transp"]
-| ![Commerce Pagseguro Transp](logo.png?resize=80,80) | [Commerce Pagseguro Transp] |
+[ui-accordion-item title="33. Pagseguro Transp"]
+| ![Pagseguro Transp](logo.png?resize=80,80) | [Pagseguro Transp] |
 | --- | --- |
 | **Description** | This project integrates PagSeguro Transparente, brazilian payment provider |
 | **Type** | On site |
 | **Currencies** | BRL|
 | **Countries** | Brazil |
 [/ui-accordion-item]
-[ui-accordion-item title="34. Commerce Payir"]
-| ![Commerce Payir](logo.png?resize=80,80) | [Commerce Payir] |
+[ui-accordion-item title="34. Payir"]
+| ![Payir](logo.png?resize=80,80) | [Payir] |
 | --- | --- |
 | **Description** | Pay.ir payment method for Drupal Commerce |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="35. Commerce PayTabs"]
-| ![Commerce PayTabs](logo.png?resize=80,80) | [Commerce PayTabs] |
+[ui-accordion-item title="35. PayTabs"]
+| ![PayTabs](logo.png?resize=80,80) | [PayTabs] |
 | --- | --- |
 | **Description** | This module integrates PayTabs with Drupal Commerce. This is an offsite payment gateway. It provides credit card payments only, so far. |
 | **Type** | On site |
 | **Currencies** | Source: https://www.paytabs.com/en/global/ |
 | **Countries** | Source: https://www.paytabs.com/en/global/ |
 [/ui-accordion-item]
-[ui-accordion-item title="36. Commerce Payway"]
-| ![Commerce Payway](logo.png?resize=80,80) | [Commerce Payway] |
+[ui-accordion-item title="36. Payway"]
+| ![Payway](logo.png?resize=80,80) | [Payway] |
 | --- | --- |
 | **Description** | Commerce Payway is a payment module that integrates Westpac Payway API with the Drupal Commerce module. |
 | **Type** | On site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="37. Commerce Rave"]
-| ![Commerce Rave](logo.png?resize=80,80) | [Commerce Rave] |
+[ui-accordion-item title="37. Rave"]
+| ![Rave](logo.png?resize=80,80) | [Rave] |
 | --- | --- |
 | **Description** | This module integrates Flutterwave Rave into Drupal Commerce payment. It currently supports the Standard and Hosted Payment Page workflows from Rave. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** | Nigeria |
 [/ui-accordion-item]
-[ui-accordion-item title="38. Commerce Razorpay Payment Integration"]
-| ![Commerce Razorpay Payment Integration](logo.png?resize=80,80) | [Commerce Razorpay Payment Integration] |
+[ui-accordion-item title="38. Razorpay Payment Integration"]
+| ![Razorpay Payment Integration](logo.png?resize=80,80) | [Razorpay Payment Integration] |
 | --- | --- |
 | **Description** | Razorpay Payment Integration |
 | **Type** | On site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="39. Commerce Rbspayment"]
-| ![Commerce Rbspayment](logo.png?resize=80,80) | [Commerce Rbspayment] |
+[ui-accordion-item title="39. Rbspayment"]
+| ![Rbspayment](logo.png?resize=80,80) | [Rbspayment] |
 | --- | --- |
 | **Description** | Integrates Commerce Payment with RBS Payment system API |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** | Russia |
 [/ui-accordion-item]
-[ui-accordion-item title="40. Commerce Saman Gateway"]
-| ![Commerce Saman Gateway](logo.png?resize=80,80) | [Commerce Saman Gateway] |
+[ui-accordion-item title="40. Saman Gateway"]
+| ![Saman Gateway](logo.png?resize=80,80) | [Saman Gateway] |
 | --- | --- |
 | **Description** | Saman Bank is Iranian commerce solution. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="41. Commerce Satispay"]
-| ![Commerce Satispay](logo.png?resize=80,80) | [Commerce Satispay] |
+[ui-accordion-item title="41. Satispay"]
+| ![Satispay](logo.png?resize=80,80) | [Satispay] |
 | --- | --- |
 | **Description** | Satispay payment system for Drupal Commerce. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="42. Commerce sermepa"]
-| ![Commerce sermepa](logo.png?resize=80,80) | [Commerce sermepa] |
+[ui-accordion-item title="42. Sermepa"]
+| ![Sermepa](logo.png?resize=80,80) | [Sermepa] |
 | --- | --- |
 | **Description** | Commerce support for Spanish banks that use Sermepa/Redsys systems. Full list of banks managed by [sermepa] |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="43. Commerce Sofortbanking"]
-| ![Commerce Sofortbanking](logo.png?resize=80,80) | [Commerce Sofortbanking] |
+[ui-accordion-item title="43. Sofortbanking"]
+| ![Sofortbanking](logo.png?resize=80,80) | [Sofortbanking] |
 | --- | --- |
 | **Description** | This module integrates the payment method SOFORT Banking (SOFORT Überweisung) from SOFORT AG |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="44. Commerce Swedbank Payment Portal"]
-| ![Commerce Swedbank Payment Portal](logo.png?resize=80,80) | [Commerce Swedbank Payment Portal] |
+[ui-accordion-item title="44. Swedbank Payment Portal"]
+| ![Swedbank Payment Portal](logo.png?resize=80,80) | [Swedbank Payment Portal] |
 | --- | --- |
 | **Description** | This module integrates Swedbank Payment Portal payment methods (banklink, credit card) as payment gateways in Drupal Commerce. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** | Estonia |
 [/ui-accordion-item]
-[ui-accordion-item title="45. Commerce Tpay"]
-| ![Commerce Tpay](logo.png?resize=80,80) | [Commerce Tpay] |
+[ui-accordion-item title="45. Tpay"]
+| ![Tpay](logo.png?resize=80,80) | [Tpay] |
 | --- | --- |
 | **Description** | This project integrates Tpay payment and checkout systems |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** | Poland |
 [/ui-accordion-item]
-[ui-accordion-item title="46. Commerce USAePay"]
-| ![Commerce USAePay](logo.png?resize=80,80) | [Commerce USAePay] |
+[ui-accordion-item title="46. USAePay"]
+| ![USAePay](logo.png?resize=80,80) | [USAePay] |
 | --- | --- |
 | **Description** | USAePay credit card gateway for Commerce using SOAP. |
 | **Type** | On site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="47. Commerce Vipps"]
-| ![Commerce Vipps](logo.png?resize=80,80) | [Commerce Vipps] |
+[ui-accordion-item title="47. Vipps"]
+| ![Vipps](logo.png?resize=80,80) | [Vipps] |
 | --- | --- |
 | **Description** | Vipps is a Norwegian payment application designed for smartphones developed by DNB. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** | Norway |
 [/ui-accordion-item]
-[ui-accordion-item title="48. Commerce Wayforpay"]
-| ![Commerce Wayforpay](logo.png?resize=80,80) | [Commerce Wayforpay] |
+[ui-accordion-item title="48. Wayforpay"]
+| ![Wayforpay](logo.png?resize=80,80) | [Wayforpay] |
 | --- | --- |
 | **Description** | This module provides a Drupal Commerce payment method to embed the payment services provided by Wayforpay |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="49. Commerce Xem"]
-| ![Commerce Xem](logo.png?resize=80,80) | [Commerce Xem] |
+[ui-accordion-item title="49. Xem"]
+| ![Xem](logo.png?resize=80,80) | [Xem] |
 | --- | --- |
 | **Description** | This module uses the Coin Market Cap website to convert USD, EUR and so on to XEM |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="50. CommercePaytm"]
-| ![CommercePaytm](logo.png?resize=80,80) | [CommercePaytm] |
+[ui-accordion-item title="50. Paytm"]
+| ![Paytm](logo.png?resize=80,80) | [Paytm] |
 | --- | --- |
-| **Description** | Integrate paytm payment gateway with drupal commerce. |
+| **Description** | Integrate Paytm payment gateway with Drupal Commerce. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
 [/ui-accordion-item]
-[ui-accordion-item title="51. Commercepayu"]
-| ![Commercepayu](logo.png?resize=80,80) | [Commercepayu] |
+[ui-accordion-item title="51. PayU"]
+| ![payu](logo.png?resize=80,80) | [payu] |
 | --- | --- |
-| **Description** | Commercepayu integration for the Drupal Commerce payment system. |
+| **Description** | Payu integration for the Drupal Commerce payment system. |
 | **Type** | Off site |
 | **Currencies** |   |
 | **Countries** |   |
